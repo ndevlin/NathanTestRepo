@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NathanTest",
+			"Path": "C:\\Users\\nd_mo\\Desktop\\PennHwork\\568 Game Design\\TimeWarp\\TimeWarpProjectFolder\\NathanTest\\NathanTestRepo\\NathanTest\\Source\\NathanTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NathanTestEditor",
+			"Path": "C:\\Users\\nd_mo\\Desktop\\PennHwork\\568 Game Design\\TimeWarp\\TimeWarpProjectFolder\\NathanTest\\NathanTestRepo\\NathanTest\\Source\\NathanTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
